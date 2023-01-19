@@ -1,4 +1,4 @@
-package hw9;
+package hw9_2;
 /*
 Завдання 2
 
