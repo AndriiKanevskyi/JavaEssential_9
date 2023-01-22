@@ -69,5 +69,6 @@ public class MyDictionary<Key,Value> {
         System.out.println(dc.elemsArr.get(1).toString());
         System.out.println(dc.elemsArr.get(2).toString());
         System.out.println(dc.getElemValues(1));
+        System.out.println(dc.getSize());
     }
 }//MyDictionary
